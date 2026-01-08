@@ -1,5 +1,5 @@
 Primera linea
-segunda linea ok
+segunda linea
 tercera linea
 cuarta linea
 quinta linea
